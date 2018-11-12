@@ -1,1 +1,2 @@
-*.log
+## start
+python index.py
