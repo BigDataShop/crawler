@@ -9,6 +9,6 @@ types = {
 
 def jindong():
     try:
-        pass
+        print("this is jd")
     except Exception as e:
         print(e)
